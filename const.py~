@@ -1,0 +1,12 @@
+det_num = 4
+t_spk_num = 12
+tsum_spk_num = t_spk_num // 2
+
+histo_size = 4096 #(chanels)
+
+histo_finisize = 512
+histo_fsize = 16384 #(bytes)
+histo_en_fnames = ["BUFKA" + str(i) + ".SPK" for i in range(1, 5)]
+histo_t_fnames = ["TIME1.SPK", "TIME2.SPK", "TIME3.SPK", "TIME4.SPK",
+                  "TIME5.SPK", "TIME6.SPK", "TIME7.SPK", "TIME8.SPK",
+                  "TIME9.SPK", "TIME10.SPK", "TIME11.SPK", "TIME12.SPK"]

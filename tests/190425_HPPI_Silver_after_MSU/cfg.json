@@ -1,0 +1,11 @@
+{
+	"porog for detectors": [120, 120, 120, 120],
+	"time of coincidence [ch]": 80,
+	"coinc mode?": "False",
+	"time of exposition [s]": 7200,
+	"histo folder": "/home/das/job/dsppac_testdistrib/2/dsppac/test/spectra/190425_HPPI_Silver_after_MSU",
+	"en_range D1": [2026, 2151, 2290, 2467],
+	"en_range D2": [1995, 2175, 2269, 2454],
+	"en_range D3": [2480, 2642, 2783, 3000],
+	"en_range D4": [1791, 1922, 2021, 2183]
+}

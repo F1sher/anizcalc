@@ -1,0 +1,11 @@
+{
+	"porog for detectors": [600, 600, 600, 600],
+	"time of coincidence [ch]": 10,
+	"coinc mode?": "True",
+	"time of exposition [s]": 172800,
+	"histo folder": "/home/das/job/dsppac/spectra/201121_La09Bi01FeO3_C_No3_77K",
+	"en_range D1": [477, 545, 712, 797],
+	"en_range D2": [464, 534, 693, 777],
+	"en_range D3": [535, 605, 805, 879],
+	"en_range D4": [441, 504, 659, 731]
+}

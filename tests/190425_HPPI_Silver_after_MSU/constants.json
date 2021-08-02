@@ -1,0 +1,12 @@
+{
+	"EN_normal": 70000.0,
+	"K_trap": 2,
+	"L_trap": 12,
+	"Tau_trap": 0.85,
+	"AVERAGE_trap": 7,
+	"I_MIN_S_SHIFT_trap": 4,
+	"INTEGRAL_steps_back": 10,
+	"INTEGRAL_steps_forw": 20,
+	"CFT_fraction": 0.6,
+	"T_SCALE": [100.0, 100.0]
+}

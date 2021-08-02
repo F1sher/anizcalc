@@ -1,0 +1,11 @@
+{
+	"porog for detectors": [120, 120, 120, 120],
+	"time of coincidence [ch]": 80,
+	"coinc mode?": "True",
+	"time of exposition [s]": 72000,
+	"histo folder": "/home/das/job/dsppac_testdistrib/2/dsppac/test/spectra/190425_111Cd_TbZn2_0GPa_300K",
+	"en_range D1": [270, 335, 400, 468],
+	"en_range D2": [265, 327, 396, 460],
+	"en_range D3": [335, 402, 500, 573],
+	"en_range D4": [246, 300, 350, 414]
+}
